@@ -1,2 +1,2 @@
-# flebox
+# flexbox
 Bootcamp Santander
